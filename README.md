@@ -4,7 +4,7 @@ Autor: Dodi Magdiel Aguilar Aguilar
 
 versiones importantes 
 
-![img] (![Uploading WhatsApp Image 2024-06-17 at 10.22.23.jpeg…]()
-) 
+![alt text]![Linea del tiempo](https://github.com/AguilarMagdiel/Postgrest/assets/173081260/80a006f7-c075-4827-b2ef-dbf338c56c9d)
+
 
 ![]
